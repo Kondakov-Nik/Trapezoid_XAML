@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoid", "Trapezoid.csproj", "{7B9AC389-E5B5-4263-802F-CD3A2F564222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoid.Tests", "..\Trapezoid.Tests\Trapezoid.Tests.csproj", "{24B69CD9-5704-4B7D-9967-7E1AF8A4CDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9AC389-E5B5-4263-802F-CD3A2F564222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9AC389-E5B5-4263-802F-CD3A2F564222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9AC389-E5B5-4263-802F-CD3A2F564222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9AC389-E5B5-4263-802F-CD3A2F564222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B69CD9-5704-4B7D-9967-7E1AF8A4CDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B69CD9-5704-4B7D-9967-7E1AF8A4CDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B69CD9-5704-4B7D-9967-7E1AF8A4CDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B69CD9-5704-4B7D-9967-7E1AF8A4CDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972DFA60-E699-45A8-9795-E2FE0373065E}
+	EndGlobalSection
+EndGlobal
